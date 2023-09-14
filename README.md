@@ -19,7 +19,7 @@ ______
     test_tkinter/database/settings/db.ini
 ```
 
-указав свои параметры подключения к 
+указав свои параметры подключения
 
 ```html
     [postgresql]
